@@ -41,6 +41,4 @@ pipenv run jupyter notebook
 # try with jupyterlab
 pipenv install jupyterlab
 pipenv run jupyter lab
-touch README.md .gitignore
-
 ```
